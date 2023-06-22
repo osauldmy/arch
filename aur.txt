@@ -1,4 +1,6 @@
 cpupower-gui
+gruvbox-material-gtk-theme-git
+gruvbox-material-icon-theme-git
 i3lock-color
 nodejs-neovim
 spotify
