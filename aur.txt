@@ -1,0 +1,4 @@
+cpupower-gui
+i3lock-color
+nodejs-neovim
+spotify
