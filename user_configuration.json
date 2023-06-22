@@ -99,6 +99,7 @@
         "ttf-jetbrains-mono",
         "vim",
         "wget",
+        "wpa_supplicant",
         "xss-lock",
         "zsh"
     ],
