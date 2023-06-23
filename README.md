@@ -22,3 +22,4 @@ $ archinstall --config user_configuration.json --disk_layout user_disk_layout.js
 - dotfiles
 - probably ansible-playbook for fine-tuning after archinstall
 - pre-installed minimal arch vagrant box for testing UI, dotfiles etc
+- CI for `archinstall --dry-run` ?
