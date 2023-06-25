@@ -105,6 +105,7 @@
         "rofi-pass",
         "ruff",
         "ruff-lsp",
+        "speedtest-cli",
         "sxiv",
         "task",
         "telegram-desktop",
