@@ -4,5 +4,6 @@ gruvbox-material-icon-theme-git
 i3lock-color
 nodejs-neovim
 pass-update
+ps_mem
 spotify
 xkblayout-state-git
