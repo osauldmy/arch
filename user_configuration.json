@@ -67,6 +67,7 @@
         "i3lock",
         "i3status-rust",
         "imagemagick",
+        "inetutils",
         "intel-ucode",
         "inxi",
         "jq",
