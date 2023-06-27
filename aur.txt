@@ -1,4 +1,6 @@
+android-studio
 cpupower-gui
+flutter
 gruvbox-material-gtk-theme-git
 gruvbox-material-icon-theme-git
 i3lock-color
