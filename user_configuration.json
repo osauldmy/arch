@@ -44,6 +44,7 @@
     "packages": [
         "acpi",
         "alacritty",
+        "android-file-transfer",
         "android-tools",
         "archlinux-wallpaper",
         "bat",
@@ -78,6 +79,7 @@
         "lxappearance-gtk3",
         "man-db",
         "man-pages",
+        "mpv",
         "mypy",
         "ncdu",
         "neovim",
@@ -123,6 +125,7 @@
         "xss-lock",
         "yubikey-manager",
         "zbar",
+        "zenity",
         "zsh"
     ],
     "parallel downloads": 5,
