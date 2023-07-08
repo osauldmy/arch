@@ -53,6 +53,7 @@
         "brightnessctl",
         "chromium",
         "cronie",
+        "dex",
         "docker",
         "docker-compose",
         "dunst",
