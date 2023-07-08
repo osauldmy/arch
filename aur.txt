@@ -7,5 +7,7 @@ i3lock-color
 nodejs-neovim
 pass-update
 ps_mem
+python-pdbpp
+simplescreenrecorder
 spotify
 xkblayout-state-git
