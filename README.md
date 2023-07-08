@@ -16,6 +16,22 @@ $ archinstall --config user_configuration.json --disk_layout user_disk_layout.js
 # inside tui set root password, double-check disk layout and encryption, create user(s)
 ```
 
+## Up-to-date state of packages
+
+Requires `vim(diff)` and `jq`.
+
+Compare pacman packages and listed in `user_configuration.json` in `packages` section:
+
+```shell
+vimdiff <(pacman -Qenq | sort) <(jq -r '.packages[]' user_configuration.json | sort)
+```
+
+Compare AUR packages:
+
+```shell
+vimdiff <(pacman -Qemq | sort) <(sort aur.txt)
+```
+
 # TODO
 
 - section about iso install emulation (for testing)
