@@ -76,6 +76,7 @@
         "intel-ucode",
         "inxi",
         "jq",
+        "lazygit",
         "libnotify",
         "libreoffice-fresh",
         "lightdm",
