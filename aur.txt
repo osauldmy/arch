@@ -11,3 +11,4 @@ python-pdbpp
 simplescreenrecorder
 spotify
 xkblayout-state-git
+zoom
