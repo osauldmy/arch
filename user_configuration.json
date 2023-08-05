@@ -55,7 +55,6 @@
         "clang",
         "cmake",
         "cronie",
-        "dex",
         "docker",
         "docker-compose",
         "dunst",
