@@ -1,6 +1,6 @@
 # About
 
-Configuration files and scenarios for creating set Arch Linux instance.
+Configuration files and scenarios for creating pre-set Arch Linux instance.
 
 # Install
 
