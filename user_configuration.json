@@ -118,6 +118,7 @@
         "python-pipx",
         "python-requests",
         "redshift",
+        "reflector",
         "ripgrep",
         "rofi",
         "rofi-calc",
