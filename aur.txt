@@ -9,4 +9,6 @@ ps_mem
 python-pdbpp
 simplescreenrecorder
 spotify
+tmux-plugin-manager
 xkblayout-state-git
+zplug
