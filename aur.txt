@@ -11,4 +11,3 @@ simplescreenrecorder
 spotify
 tmux-plugin-manager
 xkblayout-state-git
-zplug
